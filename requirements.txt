@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+roboflow
+opencv-python
+reportlab
+
